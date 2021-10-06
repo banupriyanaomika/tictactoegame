@@ -4,9 +4,10 @@
   "description": "tictactoegame",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "Banupriya",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",
@@ -15,5 +16,13 @@
     "readline": "^1.3.0",
     "socket.io": "^4.2.0",
     "socket.io-client": "^4.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banupriyanaomika/tictactoegame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/banupriyanaomika/tictactoegame/issues"
+  },
+  "homepage": "https://github.com/banupriyanaomika/tictactoegame#readme"
 }
