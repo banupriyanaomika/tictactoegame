@@ -1,4 +1,4 @@
-# tictactoegame
+# Tictactoe game using websockets and nodejs
   This is Nodejs and websockets based tictactoe game app.
   Using npm install to install the required the modules.
 # To run the game
